@@ -28,8 +28,11 @@ For example make a new folder called "OsuToBB" and place it there.
 
 ---
 #FAQ
+
 *What about sliders?*
+
 This script treats sliders as normal single notes
 
 *What about multiple notes appearing on the same time?*
+
 Script ignores them and add only the first occuring note in [HitObjects] section of original .osu file
