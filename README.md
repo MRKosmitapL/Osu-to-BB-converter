@@ -27,7 +27,7 @@ For example make a new folder called "OsuToBB" and place it there.
 11. > profit
 
 ---
-#FAQ
+# FAQ
 
 *What about sliders?*
 
