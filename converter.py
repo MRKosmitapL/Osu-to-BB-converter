@@ -6,7 +6,7 @@ class Note():
     def __init__(self, input_type, note_modifier,  timestamp:float):
         self.input_type = input_type
         self.note_modifier = note_modifier
-        self. timestamp = timestamp
+        self.timestamp = timestamp
         
     def returnType(self):
         return self.input_type
