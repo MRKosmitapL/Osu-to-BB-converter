@@ -1,4 +1,4 @@
-# OsuMania4K-to-BB-converter
+# Osu!-to-BB-converter
 Script made by Misery
 
 ---
