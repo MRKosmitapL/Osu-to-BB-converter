@@ -20,7 +20,7 @@ For example make a new folder called "OsuToBB" and place it there.
 4. Pick .osu file and copy it to the folder where the converter is (mine is OsuToBB folder so i would copy .osu file there)
 5. ***Rename .osu file to "osuFile.osu"***
 6. Open terminal/console and go to the converter's folder
-7. run "python .\converter.py"
+7. run "python .\maniaTobb.py" or "python .\stdTobb.py"
 8. In the same folder a file called "notes.cfg" should be created
 9. Swap "notes.cfg" files inside "mods/mod_name/default/config"
 10. In Beat Banger open mod via level editor, set the bpm to the song bpm and set SongOffset to 0
