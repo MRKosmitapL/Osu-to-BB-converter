@@ -23,7 +23,7 @@ For example make a new folder called "OsuToBB" and place it there.
 7. run "python .\maniaTobb.py" or "python .\stdTobb.py"
 8. In the same folder a file called "notes.cfg" should be created
 9. Swap "notes.cfg" files inside "mods/mod_name/default/config"
-10. In Beat Banger open mod via level editor, set the bpm to the song bpm and set SongOffset to 0
+10. In BB open mod via level editor, set the bpm to the song bpm and set SongOffset to 0
 11. > profit
 
 ---
